@@ -1,0 +1,13 @@
+azure-identity
+azure-ai-vision-imageanalysis
+azure-ai-documentintelligence
+azure-ai-textanalytics
+azure-search-documents
+azure-cognitiveservices-speech
+openai
+azure-ai-inference
+python-dotenv
+pandas
+httpx
+rich
+typer

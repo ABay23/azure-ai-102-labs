@@ -1,0 +1,12 @@
+[submodule "vendor/azure-search-vector-samples"]
+	path = vendor/azure-search-vector-samples
+	url = https://github.com/Azure/azure-search-vector-samples
+[submodule "vendor/document-intelligence"]
+	path = vendor/document-intelligence
+	url = https://github.com/Azure-Samples/document-intelligence-code-samples
+[submodule "vendor/azureai-samples"]
+	path = vendor/azureai-samples
+	url = https://github.com/Azure-Samples/azureai-samples
+[submodule "vendor/ai-agents"]
+	path = vendor/ai-agents
+	url = https://github.com/Azure-Samples/get-started-with-ai-agents

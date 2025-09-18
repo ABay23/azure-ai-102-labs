@@ -25,3 +25,6 @@
 [submodule "vendor/content-safety"]
 	path = vendor/content-safety
 	url = https://github.com/Azure-Samples/AzureAIContentSafety
+[submodule "vendor/mslearn-ai-studio"]
+	path = vendor/mslearn-ai-studio
+	url = https://github.com/MicrosoftLearning/mslearn-ai-studio

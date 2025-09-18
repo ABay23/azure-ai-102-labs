@@ -10,3 +10,18 @@
 [submodule "vendor/ai-agents"]
 	path = vendor/ai-agents
 	url = https://github.com/Azure-Samples/get-started-with-ai-agents
+[submodule "vendor/vendor/foundry-samples"]
+	path = vendor/vendor/foundry-samples
+	url = https://github.com/azure-ai-foundry/foundry-samples
+[submodule "vendor/foundry-samples"]
+	path = vendor/foundry-samples
+	url = https://github.com/azure-ai-foundry/foundry-samples
+[submodule "vendor/promptflow"]
+	path = vendor/promptflow
+	url = https://github.com/microsoft/promptflow
+[submodule "vendor/azure-search-openai-demo"]
+	path = vendor/azure-search-openai-demo
+	url = https://github.com/Azure-Samples/azure-search-openai-demo
+[submodule "vendor/content-safety"]
+	path = vendor/content-safety
+	url = https://github.com/Azure-Samples/AzureAIContentSafety
